@@ -26,13 +26,16 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karzocode&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karzocode&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karzocode&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://fakeimg.pl/360x180/0d1117/58a6ff/?text=Total+Stars%3A+0%0ATotal+Commits%3A+667%0ATotal+PRs%3A+3%0ATotal+Issues%3A+1%0AGrade%3A+C%2B" />
+  <img src="https://fakeimg.pl/360x180/0d1117/58a6ff/?text=Total+Contributions%3A+745%0ACurrent+Streak%3A+2+Days%0ALongest+Streak%3A+12+Days" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Code%20Quality-C%2B-blueviolet?style=for-the-badge">
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-745-58a6ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Current_Streak-2_Days-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Longest_Streak-12_Days-green?style=for-the-badge">
 </p>
 
 ---
