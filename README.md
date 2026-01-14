@@ -6,7 +6,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="70%" />
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%" />
+
 
 </div>
 
@@ -49,11 +49,27 @@
 
 ---
 
-<h2 align="center">🧩 Coding Mood</h2>
+<h2 align="center">💻 Coding Mood</h2>
 
 <div align="center">
 
-<img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" />
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Coding+All+Night+%F0%9F%92%BB;Debugging+Like+A+Boss;Build+%26+Deploy+%F0%9F%9A%80" />
+
+<br/>
+
+<!-- Animated Equalizer -->
+<img src="https://c.tenor.com/RM3Z3m0FFUAAAAAC/animated-equalizer.gif" width="350px" />
+
+<br/>
+
+<!-- Neon Hacker Style -->
+
+
+<br/>
+
+<!-- Coding GIF Fun -->
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350px" />
 
 </div>
 
