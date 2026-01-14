@@ -26,13 +26,7 @@
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=karzocode&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=karzocode&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karzocode&layout=compact&theme=tokyonight)
 
 <p align="center">
   <img src="https://fakeimg.pl/360x180/0d1117/58a6ff/?text=Total+Stars%3A+0%0ATotal+Commits%3A+667%0ATotal+PRs%3A+3%0ATotal+Issues%3A+1%0AGrade%3A+C%2B" />
@@ -58,7 +52,7 @@
 
 ## 📬 Contact Me
 <p align="center">
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/karzocode">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://linkedin.com/in/USERNAME">
@@ -67,10 +61,11 @@
   <a href="https://facebook.com/USERNAME">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook">
   </a>
-  <a href="https://instagram.com/USERNAME">
+          <a href=   "https://www.instagram.com/_kariemtamer_?igsh=dW9nZ3M4bnV4Y2hk&utm_source=qr  ">
+            
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:kariemtamer75@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
   </a>
 </p>
