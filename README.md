@@ -26,6 +26,13 @@
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=karzocode&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=karzocode&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karzocode&layout=compact&theme=tokyonight)
 
 <p align="center">
   <img src="https://fakeimg.pl/360x180/0d1117/58a6ff/?text=Total+Stars%3A+0%0ATotal+Commits%3A+667%0ATotal+PRs%3A+3%0ATotal+Issues%3A+1%0AGrade%3A+C%2B" />
